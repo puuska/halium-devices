@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="gh" fetch="https://github.com/" />
+<project path="vendor/samsung/ariesve" name="AriesVE-DevCon-TEAM/android_vendor_samsung_ariesve" remote="gh" revision="cm-12.1" />
+<project name="AriesVE-DevCon-TEAM/android_device_samsung_ariesve" path="device/samsung/ariesve" remote="gh" revision="cm-12.1" />
+<project name="AriesVE-DevCon-TEAM/samsung-kernel-msm7x30" path="kernel/samsung/msm7x30" remote="gh" revision="cm-12.1" />
+<project name="AriesVE-DevCon-TEAM/android_hardware_qcom_media-caf" path="hardware/qcom/media-caf" remote="gh" revision="cm-12.1" />
+<project name="AriesVE-DevCon-TEAM/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="gh" revision="cm-12.1" />
+<project name="AriesVE-DevCon-TEAM/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="gh" revision="cm-12.1" />
+</manifest>
